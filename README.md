@@ -1,6 +1,6 @@
 # Multi-Step Bootstrapping with [ReLAx](https://github.com/nslyubaykin/relax)
 
-Example N-step TD3 implementation with [ReLAx](https://github.com/nslyubaykin/relax)
+Example N-step TD3 [implementation](https://github.com/nslyubaykin/nstep_td3/blob/master/nstep_td3.ipynb) with [ReLAx](https://github.com/nslyubaykin/relax)
 
 The performance versus vanilla 1-step TD is measured by averaging learning curves (for separate evaluation environment) over 4 experiments with random environment seeds.
 
